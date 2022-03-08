@@ -1,7 +1,7 @@
-const lyrics = require('./lyrics')
-
+import * as lyrics from './metallyrics.js'
 require('dotenv').config() // requiring and running dotenv
-const Twit = require('twit') // requiring twit
+let Twit; // requiring twit
+Twit = require('twit');
 fs = require('fs')
 
 console.log('bot is working')
@@ -13,14 +13,12 @@ function randomIntFromInterval(min, max) {
 
 const rndInt = String(randomIntFromInterval(1, 20))
 const goatURL = `./img/${rndInt}.jpg`
-const metalQuote = lyrics[Math.floor(Math.random() * lyrics.length)]
 console.log(goatURL)
-console.log(metalQuote)
 
-// console.log(process.env.consumer_key)
-// console.log(process.env.consumer_secret)
-// console.log(process.env.access_token)
-// console.log(process.env.access_token_secret)
+console.log(process.env.consumer_key)
+console.log(process.env.consumer_secret)
+console.log(process.env.access_token)
+console.log(process.env.access_token_secret)
 
 const client = new Twit({
   consumer_key: process.env.consumer_key,
@@ -61,7 +59,7 @@ client.post(
         if (!err) {
           // now we can reference the media and post a tweet (media will attach to the tweet)
           var params = {
-            status: metalQuote + ' ' + '#goats',
+            status: 'loving life #nofilter',
             media_ids: [mediaIdStr],
           }
 

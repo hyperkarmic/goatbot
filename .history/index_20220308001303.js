@@ -61,7 +61,7 @@ client.post(
         if (!err) {
           // now we can reference the media and post a tweet (media will attach to the tweet)
           var params = {
-            status: metalQuote + ' ' + '#goats',
+            status: metalQuote+"",
             media_ids: [mediaIdStr],
           }
 
