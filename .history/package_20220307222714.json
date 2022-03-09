@@ -4,7 +4,6 @@
   "description": "https://medium.com/lets-make-something-up/how-i-created-a-twitter-bot-with-node-js-30ac8f49c255",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
