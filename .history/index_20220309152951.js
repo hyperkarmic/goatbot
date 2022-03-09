@@ -18,6 +18,11 @@ let newGoat = () => {
   console.log(goatURL)
   console.log(metalQuote)
 
+  // console.log(process.env.consumer_key)
+  // console.log(process.env.consumer_secret)
+  // console.log(process.env.access_token)
+  // console.log(process.env.access_token_secret)
+
   const client = new Twit({
     consumer_key: process.env.consumer_key,
     consumer_secret: process.env.consumer_secret,
