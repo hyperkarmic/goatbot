@@ -66,5 +66,5 @@ let newGoat = () => {
   )
 }
 newGoat()
-setInterval(newGoat, 1000 * 60 * 60)
+setInterval(newGoat, 60000)
 //1000 * 60 * 60
