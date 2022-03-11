@@ -1,5 +1,6 @@
 const lyrics = require('./lyrics')
 
+
 require('dotenv').config() // requiring and running dotenv
 const Twit = require('twit') // requiring twit
 fs = require('fs')
