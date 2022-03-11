@@ -39,6 +39,7 @@ const lyrics = [
 
   "A sinister growth gestating in the whore of God/A parasite's host; glorified charlatan/A virgin womb defiled with the slithering parasitic seed of the Xenochrist/Adequately equipped with weapons of manipulation - Faceless",
 
+
 ]
 
 module.exports = lyrics
