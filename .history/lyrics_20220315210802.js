@@ -49,9 +49,6 @@ const lyrics = [
 
   "Stricken from the holy book - deliverance to pain, Voices cry out to bid you welcome",
 
-  "You pray for death, mourning does no good, you can only die once",
-
-  "Hose rammed up your naked ass, scream is muffled", 
-  
+  'You pray for death, mourning does no good, you can only die once",
 ]
  module.exports = lyrics

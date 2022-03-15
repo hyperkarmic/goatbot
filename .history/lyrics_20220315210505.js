@@ -45,13 +45,8 @@ const lyrics = [
 
   "'Tear out your intestines Cut your liver in two",
 
-  "'With cankered disgorgement I excrete my gurgling prey",
+"'With cankered disgorgement I excrete my gurgling prey", 
 
-  "Stricken from the holy book - deliverance to pain, Voices cry out to bid you welcome",
 
-  "You pray for death, mourning does no good, you can only die once",
-
-  "Hose rammed up your naked ass, scream is muffled", 
-  
 ]
  module.exports = lyrics

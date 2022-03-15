@@ -13,7 +13,7 @@ function randomIntFromInterval(min, max) {
 }
 
 let newGoat = () => {
-  const rndInt = String(randomIntFromInterval(1, 40))
+  const rndInt = String(randomIntFromInterval(1, 0))
   const goatURL = `./img/${rndInt}.jpg`
   const metalQuote = lyrics[Math.floor(Math.random() * lyrics.length)]
   console.log(goatURL)

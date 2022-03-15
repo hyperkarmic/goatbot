@@ -39,19 +39,7 @@ const lyrics = [
 
   "A sinister growth gestating in the whore of God/A parasite's host; glorified charlatan/A virgin womb defiled with the slithering parasitic seed of the Xenochrist/Adequately equipped with weapons of manipulation - Faceless",
 
-  'Maggots and grubs bore into the mouldy remain. Masticating lymph, caked blood and cankered decay',
+"ddddddd",
 
-  "'Fusing symblepharon, your flesh turns into coke. Extravasative gunge now black, pungent smoke.",
-
-  "'Tear out your intestines Cut your liver in two",
-
-  "'With cankered disgorgement I excrete my gurgling prey",
-
-  "Stricken from the holy book - deliverance to pain, Voices cry out to bid you welcome",
-
-  "You pray for death, mourning does no good, you can only die once",
-
-  "Hose rammed up your naked ass, scream is muffled", 
-  
 ]
  module.exports = lyrics

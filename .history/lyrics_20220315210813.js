@@ -51,7 +51,6 @@ const lyrics = [
 
   "You pray for death, mourning does no good, you can only die once",
 
-  "Hose rammed up your naked ass, scream is muffled", 
   
 ]
  module.exports = lyrics
