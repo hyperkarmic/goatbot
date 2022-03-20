@@ -73,34 +73,40 @@ const lyrics = [
 
   'Needles stabbed into the walls, The executioners curtain call, Fighting back he found his identity, And there was no way out',
 
-  'I hear flak inside my head, Deafening thunder cities burn, Carpet-bombing laid to waste, Throwned inside a death mask',
+'I hear flak inside my head, Deafening thunder cities burn, Carpet-bombing laid to waste, Throwned inside a death mask',
 
-  'Mankind in his insatiable search for divine, Knowledge has discarded all biblical teachings',
+'Mankind in his insatiable search for divine, Knowledge has discarded all biblical teachings',
 
-  'Ancient crown placed on your head, The hangmen of Prague, Seven keys to the chamber, Surrendered to the God',
+'Ancient crown placed on your head, The hangmen of Prague, Seven keys to the chamber, Surrendered to the God',
 
-  'Children Of Bodom, angry are rising, Running amok slaying with a sense of desire',
+'Children Of Bodom, angry are rising, Running amok slaying with a sense of desire',
 
-  'A glance to my eyes, deep within reveals, This worn-out warrior mind, I am killing you by suffering, Discomposure of a deepest kind',
+'A glance to my eyes, deep within reveals, This worn-out warrior mind, I am killing you by suffering, Discomposure of a deepest kind',
 
-  "Get attacked by them, You’ll never heal, They’ll rob your conscience Your sanity they'll steal, They’ll beat your brains until they spill",
+"Get attacked by them, You’ll never heal, They’ll rob your conscience Your sanity they'll steal, They’ll beat your brains until they spill",
 
-  'Deny our rights and we will break it, You got to break the chains that hold you down, Crush the tyrants to the ground, Freedom cannot be legislated',
+'Deny our rights and we will break it, You got to break the chains that hold you down, Crush the tyrants to the ground, Freedom cannot be legislated',
 
-  "I'm not crazy - in an institution, You’re the one who's crazy - in an institution, You’re driving me crazy - in an institution",
+"I'm not crazy - in an institution, You’re the one who's crazy - in an institution, You’re driving me crazy - in an institution",
 
-  'Get pissed off... Release your aggravation, Scream out, rise up... Represent your generation',
+"Get pissed off... Release your aggravation, Scream out, rise up... Represent your generation",
 
-  'bile, chyme and blood in the offal effervesce, I eviscerate the bowels and drink the clotted cess',
+'bile, chyme and blood in the offal effervesce, I eviscerate the bowels and drink the clotted cess',
 
-  'FLOCKING LIKE SHEEP, THE INSTINCTUAL HERD, AS FASHION DICTATES, PRIMITIVELY SEDUCED, COMMONLY REDUCED, RESIGNED TO THEIR FATE,',
+'FLOCKING LIKE SHEEP, THE INSTINCTUAL HERD, AS FASHION DICTATES, PRIMITIVELY SEDUCED, COMMONLY REDUCED, RESIGNED TO THEIR FATE,',
 
-  'Brutalization, Humiliation, Dehumanization, Damnification, Degredation Annihilation',
+'Brutalization, Humiliation, Dehumanization, Damnification, Degredation Annihilation',
 
-  "Sensual awakening, Numbing feeling's dead, Conception’s romanticised Synthesized broken heart's to bled",
+"Sensual awakening, Numbing feeling's dead, Conception’s romanticised Synthesized broken heart's to bled",
 
-  'Storm rolls in from the sea, Covering the land with black thunder clouds, Rain whips the ground at their feet',
 
-  'Clouds of black cover the sea, Day turns into night, Infinite darkness beckons me, No more sun, no more light',
-]
-  (module.exports = lyrics)
+
+
+
+
+
+
+
+
+
+module.exports = lyrics

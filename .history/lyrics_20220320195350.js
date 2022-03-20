@@ -102,5 +102,7 @@ const lyrics = [
   'Storm rolls in from the sea, Covering the land with black thunder clouds, Rain whips the ground at their feet',
 
   'Clouds of black cover the sea, Day turns into night, Infinite darkness beckons me, No more sun, no more light',
+
+  (module.exports = lyrics),
 ]
-  (module.exports = lyrics)
+Clouds of black cover the sea, Day turns into night, Infinite darkness beckons me, No more sun, no more light
