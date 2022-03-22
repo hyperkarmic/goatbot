@@ -1,4 +1,5 @@
 const lyrics = require('./lyrics')
+const PORT = process.env.PORT || 8000
 
 require('dotenv').config() // requiring and running dotenv
 const Twit = require('twit') // requiring twit
@@ -12,16 +13,11 @@ function randomIntFromInterval(min, max) {
 }
 
 let newGoat = () => {
-  const rndInt = String(randomIntFromInterval(1, 20))
+  const rndInt = String(randomIntFromInterval(1, 121))
   const goatURL = `./img/${rndInt}.jpg`
   const metalQuote = lyrics[Math.floor(Math.random() * lyrics.length)]
   console.log(goatURL)
   console.log(metalQuote)
-
-  // console.log(process.env.consumer_key)
-  // console.log(process.env.consumer_secret)
-  // console.log(process.env.access_token)
-  // console.log(process.env.access_token_secret)
 
   const client = new Twit({
     consumer_key: process.env.consumer_key,
@@ -32,16 +28,6 @@ let newGoat = () => {
     strictSSL: true,
   })
 
-  // client.post(
-  //   'statuses/update',
-  //   { status: 'hello world!' },
-  //   function (err, data, response) {
-  //     console.log(data)
-  //   }
-  // )
-
-  // post a tweet with media
-  //
   var b64content = fs.readFileSync(goatURL, { encoding: 'base64' })
 
   // first we must post the media to Twitter
@@ -79,4 +65,6 @@ let newGoat = () => {
     }
   )
 }
-setInterval(newGoat, 1000 * 60 * 60)
+newGoat()
+// setInterval(newGoat, 1000 * 60 * 60)
+//1000 * 60 * 60
