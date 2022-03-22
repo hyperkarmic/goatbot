@@ -102,10 +102,6 @@ const lyrics = [
   'Storm rolls in from the sea, Covering the land with black thunder clouds, Rain whips the ground at their feet',
 
   'Clouds of black cover the sea, Day turns into night, Infinite darkness beckons me, No more sun, no more light',
-<<<<<<< HEAD
-]
-module.exports = lyrics
-=======
 
   'Like the screaming eagle, I’m on the run, I blaze through the sky, I kill for the fun',
 
@@ -115,17 +111,5 @@ module.exports = lyrics
 
   "You're a train ride to no importance, You’re in love with hell existence, Money is all that you desire",
 
-  'And it grows inside, Metastasize, And my brain goes crazy, Sepia toned days are hazy',
 
-  'Down and under where the damned are riding, Down and under where you pay, Your golden halo is burned and melted, Crown the monster at the end',
-
-  'Millions dead, More on the way, What is worth this cost, For your god, And country',
-
-  ' hell that now has come to earth, Where must the blame now lie, A government that sponsors death, A science against life',
-
-  'Now rendered dead as my organs fail, Thus pain exists inside this netherworld of fate',
-
-  'Demolition of bodies, smashed and broken, piles of guts, moist and steaming']
-  
-  module.exports = lyrics
->>>>>>> origin/goats2
+]((module.exports = lyrics))

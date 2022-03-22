@@ -1,4 +1,5 @@
 const lyrics = require('./lyrics')
+const PORT = process.env.PORT || 8000
 
 require('dotenv').config() // requiring and running dotenv
 const Twit = require('twit') // requiring twit

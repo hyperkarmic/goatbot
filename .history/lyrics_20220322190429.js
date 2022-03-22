@@ -102,10 +102,6 @@ const lyrics = [
   'Storm rolls in from the sea, Covering the land with black thunder clouds, Rain whips the ground at their feet',
 
   'Clouds of black cover the sea, Day turns into night, Infinite darkness beckons me, No more sun, no more light',
-<<<<<<< HEAD
-]
-module.exports = lyrics
-=======
 
   'Like the screaming eagle, I’m on the run, I blaze through the sky, I kill for the fun',
 
@@ -125,7 +121,4 @@ module.exports = lyrics
 
   'Now rendered dead as my organs fail, Thus pain exists inside this netherworld of fate',
 
-  'Demolition of bodies, smashed and broken, piles of guts, moist and steaming']
-  
-  module.exports = lyrics
->>>>>>> origin/goats2
+  'Demolition of bodies, smashed and broken, piles of guts, moist and steaming', ]((module.exports = lyrics))
