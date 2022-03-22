@@ -103,6 +103,8 @@ const lyrics = [
 
   'Clouds of black cover the sea, Day turns into night, Infinite darkness beckons me, No more sun, no more light',
 
+
+
   'Like the screaming eagle, I’m on the run, I blaze through the sky, I kill for the fun',
 
   "Abandon all hope for those who enter, Cause there ain't too much of that down here, A clouded mist in a darkened tunnel, And twisted screams are growing near",
@@ -121,7 +123,6 @@ const lyrics = [
 
   'Now rendered dead as my organs fail, Thus pain exists inside this netherworld of fate',
 
-  'Demolition of bodies, smashed and broken, piles of guts, moist and steaming',
-]
-
-module.exports = lyrics
+  'Demolition of bodies, smashed and broken, piles of guts, moist and steaming']
+  
+  module.exports = lyrics
