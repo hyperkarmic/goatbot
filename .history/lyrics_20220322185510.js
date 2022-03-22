@@ -120,7 +120,4 @@ const lyrics = [
   ' hell that now has come to earth, Where must the blame now lie, A government that sponsors death, A science against life',
 
   'Now rendered dead as my organs fail, Thus pain exists inside this netherworld of fate',
-
-  'Demolition of bodies, smashed and broken, piles of guts, moist and steaming',
-
 ]((module.exports = lyrics))

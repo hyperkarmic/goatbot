@@ -116,11 +116,5 @@ const lyrics = [
   'Down and under where the damned are riding, Down and under where you pay, Your golden halo is burned and melted, Crown the monster at the end',
 
   'Millions dead, More on the way, What is worth this cost, For your god, And country',
-
-  ' hell that now has come to earth, Where must the blame now lie, A government that sponsors death, A science against life',
-
-  'Now rendered dead as my organs fail, Thus pain exists inside this netherworld of fate',
-
-  'Demolition of bodies, smashed and broken, piles of guts, moist and steaming',
-
+  
 ]((module.exports = lyrics))

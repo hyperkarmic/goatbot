@@ -110,17 +110,4 @@ const lyrics = [
   "Binding our eyes as the sun turns to black, A world full of hatred and fear, All are committed, there's no going back, There’ll be no one left to hear",
 
   "You're a train ride to no importance, You’re in love with hell existence, Money is all that you desire",
-
-  'And it grows inside, Metastasize, And my brain goes crazy, Sepia toned days are hazy',
-
-  'Down and under where the damned are riding, Down and under where you pay, Your golden halo is burned and melted, Crown the monster at the end',
-
-  'Millions dead, More on the way, What is worth this cost, For your god, And country',
-
-  ' hell that now has come to earth, Where must the blame now lie, A government that sponsors death, A science against life',
-
-  'Now rendered dead as my organs fail, Thus pain exists inside this netherworld of fate',
-
-  'Demolition of bodies, smashed and broken, piles of guts, moist and steaming',
-
 ]((module.exports = lyrics))
