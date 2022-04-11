@@ -159,30 +159,7 @@ const lyrics = [
 
   'There are traps behind every line, The combat zone in trench and fire, I know the danger every step',
 
-  'We are the messengers, Of inmost thought, Our words of confession, Fall away to nought',
-
-  "She can't control her, Abnormal inclination, But she found a congenial fellow",
-
-  'Flash of light fills the midnight air, Scraps of metal flying here and there',
-
-  "Black covers the mass, The mist it's so dense, It’s soothing to breathe",
-
-  'Like a second hand politician, I’m a study in malnutrition',
-
-  'Take this boy, and remind him, Just how fragile his un-sewn life',
-
-  "Now that push turned to shove, damn it! And my mind is my own Still you poke and you prod daily",
-
-  "Nothing can save them now, You’ve learned a lesson in violence",
-
-  "They only live and die as a slave, With one foot, one foot in the grave",
-
-
-
-
-
-
-  ""
+  ''
 ]
 
 module.exports = lyrics

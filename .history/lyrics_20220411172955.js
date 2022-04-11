@@ -175,9 +175,8 @@ const lyrics = [
 
   "Nothing can save them now, You’ve learned a lesson in violence",
 
-  "They only live and die as a slave, With one foot, one foot in the grave",
-
-
+  "They only live and die as a slave, With one foot, one foot in the grave
+"
 
 
 

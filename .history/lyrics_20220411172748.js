@@ -171,18 +171,9 @@ const lyrics = [
 
   'Take this boy, and remind him, Just how fragile his un-sewn life',
 
-  "Now that push turned to shove, damn it! And my mind is my own Still you poke and you prod daily",
+  'Now that push turned to shove, damn it! And my mind is my own Still you poke and you prod daily With that off-setting harsh tone",
 
-  "Nothing can save them now, You’ve learned a lesson in violence",
-
-  "They only live and die as a slave, With one foot, one foot in the grave",
-
-
-
-
-
-
-  ""
+  
 ]
 
 module.exports = lyrics

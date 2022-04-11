@@ -173,11 +173,7 @@ const lyrics = [
 
   "Now that push turned to shove, damn it! And my mind is my own Still you poke and you prod daily",
 
-  "Nothing can save them now, You’ve learned a lesson in violence",
-
-  "They only live and die as a slave, With one foot, one foot in the grave",
-
-
+  "Nothing can save them now, You’ve learned a lesson in violence
 
 
 

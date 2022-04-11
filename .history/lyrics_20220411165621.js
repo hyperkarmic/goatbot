@@ -123,66 +123,7 @@ const lyrics = [
 
   'Demolition of bodies, smashed and broken, piles of guts, moist and steaming',
 
-  'Once flowing blood is now dried, resembling black pudding. Now all that bleeds is a slow trickle of hot, sticky muscle.',
-
-  'The cataleptic remains incite the suppuration, Giving way to the stench of anal emanation',
-
-  'Parasitic carnivorous carrion, your gastrointestinal tract, your preys cremator',
-
-  'Effervescing entrails corroding after years, The stench of the canker brings me no tears',
-
-  "YOUR KINGDOM IS OF EMPTINESS, INVISIBLE EMPIRE OF ILLUSION, THERE'S NO MAJESTY IN YOUR EMPTY WORDS",
-
-  'TIME IS NO GREAT HEALER, QUICKLY THE SENSES NUMB, COME CROSS MY HEART, VOID AND NULL,',
-
-  'The spirit distilled, the soul is bought. The D.N.A. split, the virus is caught.',
-
-  'Your cavities rot with ulcers, Your infected inflammations torn',
-
-  'Life is a twisted maze of obstacles, Presented by people with a secret face',
-
-  'Laying your guilt and pain On people that had no part in the molding of a life That creates its destruction',
-
-  "Are they the examples of regression A life form's abusive progression a realm so vast, we sit among the Vacant Planet",
-
-  'From the mentally blind come ideas that are poison, Take away the power, a shallow person you will find.',
-
-  'Prisoners of mental deception be free within singular judgement Twisting words to control the masses',
-
-  'Rides the Metal Monster, Breathing smoke and fire, Closing in with vengeance soaring high',
-
-  'behold the flesh and the power it holds, passion is a poison laced with pleasure bitter sweet, one of many faces that hide deep beneath',
-
-  'Bloody killing spree, Brain fried eternally, Psychotic mission of death',
-
-  'Nuclear warheads are ready to fight, Total destruction the only might',
-
-  'There are traps behind every line, The combat zone in trench and fire, I know the danger every step',
-
-  'We are the messengers, Of inmost thought, Our words of confession, Fall away to nought',
-
-  "She can't control her, Abnormal inclination, But she found a congenial fellow",
-
-  'Flash of light fills the midnight air, Scraps of metal flying here and there',
-
-  "Black covers the mass, The mist it's so dense, It’s soothing to breathe",
-
-  'Like a second hand politician, I’m a study in malnutrition',
-
-  'Take this boy, and remind him, Just how fragile his un-sewn life',
-
-  "Now that push turned to shove, damn it! And my mind is my own Still you poke and you prod daily",
-
-  "Nothing can save them now, You’ve learned a lesson in violence",
-
-  "They only live and die as a slave, With one foot, one foot in the grave",
-
-
-
-
-
-
-  ""
+  ''
 ]
 
 module.exports = lyrics
