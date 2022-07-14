@@ -2,4 +2,4 @@ https://medium.com/lets-make-something-up/how-i-created-a-twitter-bot-with-node-
 
 new instructions for sams
 
-hello we are nearly here - this not fun
+hello we are nearly here - this not fun this is my 1st ever VIM edit
