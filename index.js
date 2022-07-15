@@ -67,3 +67,4 @@ let newGoat = () => {
 newGoat()
 // setInterval(newGoat, 1000 * 60 * 60)
 //1000 * 60 * 60
+//web: node index.js
