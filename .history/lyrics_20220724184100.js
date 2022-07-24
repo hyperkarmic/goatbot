@@ -591,13 +591,7 @@ const lyrics = [
 
   'Charbroiled to blackened char, Smoked, sauted and black, Blistering flaking tissue',
 
-  "Sounds of the night I can't describe fear inside, I am the necrobutcher of what I am.",
-
-  'Whispers, no light, shadows in the endless night, I am dancing with angels to celebrate',
-
-  'You tried through lies; you die on your lonely way, I die in my mind, ashes become my power',
-
-  'As tears of blood are raining from the sky, Sleeping body of the visitor lies, From the depths rise the eternal singings, Which orchestrate the march of the ceremony',
+  ""
 ]
 
 module.exports = lyrics

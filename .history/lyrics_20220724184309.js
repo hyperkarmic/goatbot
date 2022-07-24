@@ -598,6 +598,8 @@ const lyrics = [
   'You tried through lies; you die on your lonely way, I die in my mind, ashes become my power',
 
   'As tears of blood are raining from the sky, Sleeping body of the visitor lies, From the depths rise the eternal singings, Which orchestrate the march of the ceremony',
+
+  
 ]
 
 module.exports = lyrics

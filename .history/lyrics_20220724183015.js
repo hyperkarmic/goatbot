@@ -571,33 +571,7 @@ const lyrics = [
 
   'We laugh at your bastard child, No god shall come before me',
 
-  'Brain washed with sin and death, Time to burn - my evil wrath',
-
-  'My touch is inhumane, Nocturnal beast inside, Is void of light, And empty shall remain',
-
-  'Sepulchers abandoned, Insurgent souls arise, Disseminating evil',
-
-  'Wreakers of death and havoc, Inflicting never ending pain, Sing the words of emptiness, Formulas of death',
-
-  'Liars in wait, priests of the night, Make images to burn by the moon',
-
-  'to raise the chalice and toast the conquering, to feast upon the spoils that we claim',
-
-  'and like the ways of the sheep, the flock has been to only receive, led to the gates of their enemy, led to the slaughter of their beliefs',
-
-  'We stand defiant, In this great big ugly world, Do believe that the chaos, Was our one true calling',
-
-  'We stand invincible not just a dream, Straight from the underground, The Gods are screaming',
-
-  'Charbroiled to blackened char, Smoked, sauted and black, Blistering flaking tissue',
-
-  "Sounds of the night I can't describe fear inside, I am the necrobutcher of what I am.",
-
-  'Whispers, no light, shadows in the endless night, I am dancing with angels to celebrate',
-
-  'You tried through lies; you die on your lonely way, I die in my mind, ashes become my power',
-
-  'As tears of blood are raining from the sky, Sleeping body of the visitor lies, From the depths rise the eternal singings, Which orchestrate the march of the ceremony',
+  "Brain washed with sin and death, Time to burn - my evil wrath"
 ]
 
 module.exports = lyrics
